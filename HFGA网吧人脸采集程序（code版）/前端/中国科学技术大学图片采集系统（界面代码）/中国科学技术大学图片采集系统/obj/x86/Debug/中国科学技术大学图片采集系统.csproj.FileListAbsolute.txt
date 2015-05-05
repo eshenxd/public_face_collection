@@ -27,3 +27,11 @@ E:\桌面\最近项目相关\合肥公安项目\网吧人脸采集系统\界面\
 E:\桌面\最近项目相关\合肥公安项目\网吧人脸采集系统\界面\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.Properties.Resources.resources
 E:\桌面\最近项目相关\合肥公安项目\网吧人脸采集系统\界面\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.csproj.GenerateResource.Cache
 E:\桌面\最近项目相关\合肥公安项目\网吧人脸采集系统\界面\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.csprojResolveAssemblyReference.cache
+E:\github\public_face_collection\HFGA网吧人脸采集程序（code版）\前端\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.exe
+E:\github\public_face_collection\HFGA网吧人脸采集程序（code版）\前端\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.pdb
+E:\github\public_face_collection\HFGA网吧人脸采集程序（code版）\前端\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\bin\Debug\中国科学技术大学图片采集系统.exe
+E:\github\public_face_collection\HFGA网吧人脸采集程序（code版）\前端\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\bin\Debug\中国科学技术大学图片采集系统.pdb
+E:\github\public_face_collection\HFGA网吧人脸采集程序（code版）\前端\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.csprojResolveAssemblyReference.cache
+E:\github\public_face_collection\HFGA网吧人脸采集程序（code版）\前端\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.Form1.resources
+E:\github\public_face_collection\HFGA网吧人脸采集程序（code版）\前端\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.Properties.Resources.resources
+E:\github\public_face_collection\HFGA网吧人脸采集程序（code版）\前端\中国科学技术大学图片采集系统（界面代码）\中国科学技术大学图片采集系统\obj\x86\Debug\中国科学技术大学图片采集系统.csproj.GenerateResource.Cache

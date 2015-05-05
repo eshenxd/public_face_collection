@@ -290,6 +290,21 @@ namespace 中国科学技术大学图片采集系统
 
        
 
+        private void Form1_DoubleClick(object sender, EventArgs e)
+        {
+            notifyIcon1.Visible = true;
+            this.Hide();
+        }
+
+        private void notifyIcon1_MouseDown(object sender, MouseEventArgs e)
+        {
+            this.Show();
+            notifyIcon1.Visible = false;
+            this.ShowInTaskbar = true;
+        }
+
+       
+
        
     }
 }
